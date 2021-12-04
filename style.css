@@ -14,3 +14,28 @@
     border: 1px solid red;
     text-align: center;
 }
+
+.form {
+    margin-top: 10px;
+}
+
+#num {
+    width: 30px;
+}
+
+.btn {
+    border: none;
+    padding: 3px 7px;
+    background-color: transparent;
+    border: 1px solid #49A6EA;
+    color: #49A6EA;
+    margin-left: 10px;
+    border-radius: 8px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #49A6EA;
+    color: white;
+}
